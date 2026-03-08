@@ -8,7 +8,7 @@ Ohjelman rajoituksena on myöskin tällä hetkellä se että itemien tietojen ha
 
 
 
-Sovellus toimii syöttämällä tekstikenttän avulla itemeitä, kunnes olet tyytyväinen keräämiisi esineisiin ja haluat laskea senhetkisen valintasi lopputuloksen painamalla calculate nappia, jolloin sovellus kertoo kuinka paljon
+Sovellus toimii syöttämällä tekstikentään itemeitä, kunnes olet tyytyväinen keräämiisi esineisiin ja haluat laskea senhetkisen valintojesi lopputuloksen painamalla calculate nappia, jolloin sovellus kertoo kuinka paljon
 päästatseja saat kustakin kategoriasta. Sivun pohjalta voit myös nollata laskurin, vaikkakin se toimii tällä hetkellä hiukan hassusti (WIP jne.)
 
 
