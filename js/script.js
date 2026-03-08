@@ -1,5 +1,5 @@
 //Koodin teossa käytettiin tekoälyä tukena pääasiassa tiedonhaussa, api ongelmien ratkaisussa, sekä syntaksivirheiden tarkistuksessa.
-//kohdat joissa tekoälyä on käytetty on maininta kohdan kommentissa
+//kohdat joissa tekoälyä on käytetty on mainittu kohdan kommentissa
 
 let adding = document.querySelector('#haku')
 adding.addEventListener('click', selectitem)
