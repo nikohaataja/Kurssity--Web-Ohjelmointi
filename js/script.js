@@ -215,15 +215,15 @@ function calculate (){
     vitalityinvest(build,cleanItems)
 }
 
-///nollausfunktio, toimii "hiukan" tyhmästi. korjataan soon_tm
+///nollausfunktio, korjattu
 
 function resetcalc(){
     let selling = document.querySelectorAll('#build li')
     selling.forEach(li => li.remove())
     build= []
-    document.querySelector('#total').textContent = '';
-    document.querySelector('#spirit').textContent = '';
-    document.querySelector('#gun').textContent = '';
-    document.querySelector('#vitality').textContent = ''
+    document.querySelector('#total').textContent = 'Total investment';
+    document.querySelector('#spirit').textContent = 'Spirit investment';
+    document.querySelector('#gun').textContent = 'Gun investment';
+    document.querySelector('#vitality').textContent = 'Vitality investment:'
 }
 
